@@ -63,6 +63,3 @@ class AppLink {
  static const String itemsdelete      = "$server/admin/items/delete.php";
 
 }
-
-//pass : i)e3EZySSAi(WNwt6pUe
-//dbpass : ARH9DgU]&\6bep0D
